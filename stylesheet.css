@@ -1,0 +1,15 @@
+header{
+  color:white;
+  background-color: blue;
+  opacity: 0.8;
+  padding:10px 10px;
+}
+.logo{
+  float:left;
+}
+.header-right {
+  text-align:right
+}
+.header-right a{
+  color:white;
+}
